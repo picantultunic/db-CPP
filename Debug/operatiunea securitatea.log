@@ -1,0 +1,3 @@
+﻿  operatiunea securitatea.cpp
+C:\Users\User\source\repos\operatiunea securitatea\operatiunea securitatea\libsec.h(247,16): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+  operatiunea securitatea.vcxproj -> C:\Users\User\source\repos\operatiunea securitatea\Debug\operatiunea securitatea.exe

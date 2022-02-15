@@ -1,0 +1,3 @@
+adauga prieteni
+scoate prieteni
+modifica opinia

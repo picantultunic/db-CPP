@@ -1,0 +1,6 @@
+Utilizatori
+nrdeutilizatori.txt
+Interactiuni
+Relatii
+legaturi.txt
+posibilitati_de_modificare_fisier
